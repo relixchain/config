@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Fluence",
+      "links": [
+        {
+          "text": "Platform",
+          "url": "https://relixchain.com/"
+        },
+        {
+          "text": "Whitepapes",
+          "url": "https://relixchain.com"
+        }
+      ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+          {
+            "text": "Documentation",
+            "url": "https://relix-chain.gitbook.io/relix-chain-docs/"
+          },
+          {
+            "text": "Github",
+            "url": "https://github.com/relixchain.com"
+          },
+          {
+            "text": "Mainnet explorer",
+            "url": "https://mainnet.relixchain.com/"
+          },
+          {
+            "text": "Claim tRLX",
+            "url": "https://faucet.relixchain.com/"
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {
+            "text": "Twitter",
+            "url": "https://x.com/relixchain"
+          },
+          {
+            "text": "Telegram",
+            "url": "https://t.me/relixchain"
+          },
+          {
+            "text": "Blog",
+            "url": "https://medium.com/@relixchain"
+          }
+        ]
+      }
+  ]

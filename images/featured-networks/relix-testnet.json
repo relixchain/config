@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Relix Testnet",
+		"url": "https://testnet.relixchain.com",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg",
+		"isActive": true
+	},
+	{
+		"title": "Relix Mainnet",
+		"url": "https://mainnet.relixchain.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/ink.svg"
+	}
+]
